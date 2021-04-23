@@ -1,0 +1,4 @@
+Kindly go through the following before executing the code:
+
+1. First unzip the 180123053_Data zip file before executing the code, since it contains the data which is utilised by the programs.
+2. The corresponding data is suitably organised in the respective folders, and the combined data is also present in the files bsedata1.csv and nsedata1.csv
